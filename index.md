@@ -1,43 +1,41 @@
 ---
 layout: page
 title: Curriculum Vitae
-tagline: 
+tagline: Nicholas G. Crawford
 ---
 
-# NICHOLAS G. CRAWFORD
+##### NICHOLAS G. CRAWFORD
 - Email: ngcrawfo@bu.edu
 - Website: www.ngcrawford.com
 
-# EDUCATION
-- 2007 to present – PhD student, Boston University  
-  *Advisor:* Christopher Schneider
+##### EDUCATION
+- **2007 to present – PhD student, Boston University**  
+  *Advisor:* Christopher Schneider  
+  *Thesis Title:* Anolis Lizard Genomics and Phylogenetics 
 
-- *Thesis:* Anolis Lizard Genomics and Phylogenetics
+    - *Additional Projects:*  
+    - Mammal, Reptile, and Avian Phylogenomics, with Travis Glenn  
+    - Butterfly Speciation Genomics, with Sean Mullen  
 
-## Additional Projects: 
-- Mammal, Reptile, and Avian Phylogenomics and Species Tree 
-  analyses with Travis Glenn
-
-- Butterfly Speciation Genomics with Sean Mullen
-
-## 2004/07 – M.S. student, San Diego State University 
-- *Advisor:* Tod Reeder
-- *Thesis:* Population structure within the Plateau Striped 
-  Whiptail Aspidoscelis velox complex) a parthenogenetic lizard
+- **2004/07 – M.S. student, San Diego State University**  
+  *Advisor:* Tod Reeder  
+  *Thesis:* Population structure within the Plateau Striped
+  Whiptail (*Aspidoscelis velox complex*) a parthenogenetic lizard  
  
-- Additional Project: 
--- Phylogenetic relationships among Australian skinks of the genus
+    - *Additional Project:* 
+    - Phylogenetic relationships among Australian skinks of the genus
 Glaphyromorphus
  
-## 1997/01 – B.S. Biology, Union College
-- Graduated *Cum Laude* with Academic and Departmental Honors
+- **1997/01 – B.S. Biology, Union College**  
+  Graduated *Cum Laude* with Academic and Departmental Honors
 
-# AREAS OF SPECIALIZATION
+
+##### AREAS OF SPECIALIZATION
 
 - Speciation, bioinformatics, molecular systematics, population 
-genetics evolutionary biology, and herpetology
+genetics, evolutionary biology, and herpetology
 
-## SKILLS AND TECHNIQUES
+##### SKILLS AND TECHNIQUES
 - *Laboratory:* RNA-seq library construction, Primer Design, DNA 
 purification, PCR, qPCR (taqman assays), Sanger Sequencing (both 
 ABI3130 and ABI377 genetic analyzers), Microsatellite 
@@ -51,9 +49,12 @@ Hadoop/MapReduce, also some Perl, R, Html, and CSS
 Stampy, Blast/NCBI, MrBayes, Sequencher, Oligo (primer design), 
 Genemapper, GenAlEx, Arlequin 
 
-- *Miscellaneous Skills:* Protein Purification (FPLC), Mammalian Tissue Culture, Ordering and Stocking, Maintaining Laboratory Compliance with Safety  Regulations, Training Students and Techs, and Catching lizards
+- *Miscellaneous Skills:* Protein Purification (FPLC), 
+Mammalian Tissue Culture, Ordering and Stocking, 
+Maintaining Laboratory Compliance with Safety 
+Regulations, Training Students and Techs, and Catching lizards
 
-# GRANTS AND SCHOLARSHIPS   
+##### GRANTS AND SCHOLARSHIPS   
 - 2012 – Grand Challenges Award, Smithsonian Institute Consortia, 
 Next Generation Phylogenetics, MJ Braun, K Wurdack, W Wcislo, J 
 Maldonado, K Helgen, S Brady, M Cummings, TC Glenn, BC 
@@ -64,7 +65,8 @@ White. $100,000.
 utility of ultra- conserved elements for the avian tree of life. 
 MJ Braun, ND White, TC Glenn, BC Faircloth, RT Brumﬁeld, EL 
 Braun, JE McCormack, NG Crawford. $10,000
-2011 – Amazon Education Research Grant (aws.amazon.com), 
+
+- 2011 – Amazon Education Research Grant (aws.amazon.com), 
 Computational Resources. BC Faircloth, NG Crawford, JE McCormack.
 $10,000.
 
@@ -89,16 +91,16 @@ Natural History) labwork/fieldwork. $1,960.
 
 - 1999 – Booth - Ferris Grant, summer stipend. $1,700.
 
-# PUBLICATIONS
-- Marcus R. Kronforst, Matthew E.B. Hansen, Nicholas G. Crawford, 
+##### PUBLICATIONS
+- Marcus R. Kronforst, Matthew E.B. Hansen, **Nicholas G. Crawford**, 
 Jason R. Gallant, Rob J. Kulathinal, Durrell D. Kapan, and Sean 
-P. Mullen. Hybridization reveals the evolving genomic 
-architecture of speciation in Heliconius butterflies. Submitted.
+P. Mullen. *Hybridization reveals the evolving genomic 
+architecture of speciation in Heliconius butterflies*. Submitted.
 
-- John E. McCormack, Michael G. Harvey, Brant C. Faircloth, Nicholas 
-G. Crawford, Travis C. Glenn, Robb T. Brumfield. 2012. A 
-phylogeny of birds   based on over 1,500 loci collected by 
-target enrichment and high-throughput sequencing. Provisionally 
+- John E. McCormack, Michael G. Harvey, Brant C. Faircloth, **Nicholas 
+G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2012. *A 
+phylogeny of birds based on over 1,500 loci collected by 
+target enrichment and high-throughput sequencing*. Provisionally 
 accepted.
 
 - John A. St. John, Edward L. Braun, Sally R. Isberg, Lee G. Miles, 
@@ -106,7 +108,7 @@ Amanda Y. Chong, Jamie Gongora, Pauline Dalzell, Christopher
 Moran, Taisen Iguchi, Bertrand Bed'Hom, Shane C. Burgess, Amanda 
 M. Cooksey, Todd A. Castoe, Arkhat Abzhanov, Llewellyn D. 
 Densmore, Miryam Venegas-Anya, Matthew J. Greenwold, Roger H. 
-Sawyer, Federico G. Hoffmann, Nicholas G. Crawford, Jennifer C.
+Sawyer, Federico G. Hoffmann, **Nicholas G. Crawford**, Jennifer C.
 Drew, Scott V. Edwards, Matthew K. Fujita, Jonathan M. Howard, 
 Brant C. Faircloth, Daniel E. Janes, Shahid Yar Khan, Satomi 
 Kohno, A.P. Jason de Koning, Stacey L. Lance, Fiona M. McCarthy, 
@@ -114,171 +116,143 @@ John E. McCormack, Mark E. Merchant, Daniel G. Peterson, David D.
 Pollock, Nader Pourmand, Brian J. Raney, Kyria A. Roessler, 
 Jeremy R. Sanford, Carl J. Schmidt, Eric W. Triplett, Tracey D. 
 Tuberville, Erich D. Jarvis, Louis J. Guillette Jr, Travis C. 
-Glenn, Richard E. Green and David A. Ray. 2012. Sequencing three 
+Glenn, Richard E. Green and David A. Ray. 2012. *Sequencing three 
 crocodilian genomes to illuminate the evolution of archosaurs 
-and amniotes. Genome Biology. 13, 415.
+and amniotes*. Genome Biology. 13, 415.
 
 - Kenro Kusumi, Rob J. Kulathinal, Arhat Abzhanov, Stephane 
-Boissinot, Nicholas G. Crawford, Brant C. Faircloth, Travis C.
+Boissinot, **Nicholas G. Crawford**, Brant C. Faircloth, Travis C.
 Glenn, Daniel E. Janes, Jonathan B. Losos, Douglas B. Menke, 
 Steven Poe, Thomas J. Sanger, Christopher J. Schneider, Jessica 
-Stapley, Juli Wade, Jeanne Wilson-Rawls. 2012. Developing a 
-community-based genetic nomenclature for anole lizards. BMC 
+Stapley, Juli Wade, Jeanne Wilson-Rawls. 2012. *Developing a 
+community-based genetic nomenclature for anole lizards*. BMC 
 genomics, 12(1), 554.
   
-- Nicholas G. Crawford, Brant C. Faircloth, John E. McCormack, Robb 
-T. Brumfield, Kevin Winker, Travis C. Glenn. 2012. More than 
+- **Nicholas G. Crawford**, Brant C. Faircloth, John E. McCormack, Robb 
+T. Brumfield, Kevin Winker, Travis C. Glenn. 2012. *More than 
 1000 ultraconserved elements provide evidence that turtles are 
-the sister group of archosaurs. Biology Letters. 8(5), 783-786.
+the sister group of archosaurs*. Biology Letters. 8(5), 783-786.
 
-- Brant C. Faircloth, John E. McCormack, Nicholas G. Crawford, 
+- Brant C. Faircloth, John E. McCormack, **Nicholas G. Crawford**, 
 Michael Harvey, Robb T. Brumfield, Travis C. Glenn. 2012. 
-Ultraconserved elements anchor thousands of genetic markers for 
-target enrichment spanning multiple evolutionary timescales. 
+*Ultraconserved elements anchor thousands of genetic markers for 
+target enrichment spanning multiple evolutionary timescales*. 
 Systematic Biology. 61(5), 713-715.
 
-- John E. McCormack, Brant C. Faircloth, Nicholas G. Crawford, 
+- John E. McCormack, Brant C. Faircloth, **Nicholas G. Crawford**, 
 Patricia Adair Gowaty, Robb T. Brumfield, Travis C. Glenn. 2011. 
-Ultraconserved Elements Are Novel Phylogenomic Markers that 
+*Ultraconserved Elements Are Novel Phylogenomic Markers that 
 Resolve Placental Mammal Phylogeny when Combined with Species 
-Tree Analysis. Genome Research. 22(4), 746-54.
+Tree Analysis*. Genome Research. 22(4), 746-54.
 
-- Nicholas G. Crawford. 2010. SMOGD: Software for the Measurement of
-Genetic Diversity. Molecular Ecology Resources, 10: 556-557.
--- Associated website: http://www.ngcrawford.com/django/jost
+- **Nicholas G. Crawford**. 2010. *SMOGD: Software for the Measurement of
+Genetic Diversity*. Molecular Ecology Resources, 10: 556-557.  
+    - Associated website: http://www.ngcrawford.com/django/jost
 
-- Nicholas G. Crawford, Jaime Zaldívar-Rae, Cris Hagen, Amanda 
+- **Nicholas G. Crawford**, Jaime Zaldívar-Rae, Cris Hagen, Amanda 
 Schable, Erica Bree Rosenblum, Jeff A. Graves, Tod W. Reeder, 
-Michael G. Ritchie, Travis C. Glenn. 2007. Thirteen polymorphic
+Michael G. Ritchie, Travis C. Glenn. 2007. *Thirteen polymorphic
 microsatellite DNA loci from whiptails of the genus Aspidoscelis 
-(Teiidae: Squamata) and related cnemidophorine lizards.
+(Teiidae: Squamata) and related cnemidophorine lizards*.
 Molecular Ecology Resources. 8: 219-223
 
-- Nicholas G. Crawford, Cris Hagen, Heather F. Sahli, Elizabeth A. 
-Stacy, Travis C. Glenn. 2007. Fifteen polymorphic microsatellite 
-loci from Hawaii’s Metrosideros polymorpha 
-(Myrtaceae: Myrtales), a model species for ecology 
-and evolution. Molecular Ecology Resources, 8, 308-310.
+- **Nicholas G. Crawford**, Cris Hagen, Heather F. Sahli, Elizabeth A. 
+Stacy, Travis C. Glenn. 2007. *Fifteen polymorphic microsatellite 
+loci from Hawaii’s Metrosideros polymorpha (Myrtaceae: Myrtales), 
+a model species for ecology and evolution*. Molecular Ecology Resources, 8, 308-310.
 
-- Caleb R. Hickman, Maureen B. Peters, Nicholas G. Crawford, Cris 
+- Caleb R. Hickman, Maureen B. Peters, **Nicholas G. Crawford**, Cris 
 Hagen, Travis C. Glenn, Christopher M. Sommers. 2008.
-Development and characterization of microsatellite loci in the
-American white pelican (Pelecanus erythrorhynchos). Molecular
+*Development and characterization of microsatellite loci in the
+American white pelican (Pelecanus erythrorhynchos)*. Molecular
 Ecology Resources, 8, 1439-1441.
 
-- Nicholas G. Crawford, Maureen B. Peters, Cris Hagen, Travis C. 
-Glenn, Stephen K. Davis, Christopher M. Somers. 2007. Twelve 
+- **Nicholas G. Crawford**, Maureen B. Peters, Cris Hagen, Travis C. 
+Glenn, Stephen K. Davis, Christopher M. Somers. 2007. *Twelve 
 polymorphic microsatellite loci from Sprague’s pipit, Anthus 
 spragueii (Motacillidae:Passeriformes), a threatened grassland 
-endemic songbird. Molecular Ecology Resources, 9, 315-317.
+endemic songbird*. Molecular Ecology Resources, 9, 315-317.
 
-- Nicholas G. Crawford. 2007. Microsatellites in cnemidophorine 
+- **Nicholas G. Crawford**. 2007. Microsatellites in cnemidophorine 
 lizards: their utility in investigating the landscape genetics 
 of the plateau striped whiptail (Aspidoscelis velox Complex). 
 Masters Thesis: San Diego State University.
 
-- Olga V. Tsyusko, Tracey D. Tuberville, Maureen B. Peters, Nicholas
-Crawford, Cris Hagen, Steve Weller, Ann Sakai, and Travis C. 
-Glenn. 2007. Microsatellite markers isolated from polyploid 
-woodsorrell (Oxalis alpina). Molecular Ecology Notes, 7, 1284-
+- Olga V. Tsyusko, Tracey D. Tuberville, Maureen B. Peters, **Nicholas
+Crawford**, Cris Hagen, Steve Weller, Ann Sakai, and Travis C. 
+Glenn. 2007. *Microsatellite markers isolated from polyploid 
+woodsorrell (Oxalis alpina)*. Molecular Ecology Notes, 7, 1284-
 1286.
 
-# PROFESSIONAL EXPERIENCE
+##### PROFESSIONAL EXPERIENCE
 - 2007-2011 – Teaching Fellow, Boston University: Introductory 
 Biology, Genetics, Evolution, Animal Behavior
-
 - 2007 – South Carolina, Summer, 6 months, Research Technician, 
 supervised by Travis Glenn
-
 - 2006 – South Carolina, Summer, 6 weeks, Microsatellite loci 
 preparation at the Savannah River Ecology Laboratory, supervised 
 by Travis Glenn
-
 - 2004/2005 – Graduate Teaching Assistant, SDSU, Introductory 
 Biology and Introductory Zoology
-
 - 2004 – Research Assistant, SDSU, Advisor: Tod Reeder
-
 - 2002/03 – Research Associate, Boston Biochem
-
 - 2001 – Research Associate, Pfizer Pharmaceuticals
-
 - 2001 – Research Associate, Harvard Medical School
 
-# FIELD EXPERIENCE
+##### FIELD EXPERIENCE
 - 2012 – Guantanamo Bay, Cuba, Summer, 1 week, collecting lizards  
-
 - 2009 – Guadeloupe, French West Indies, Summer, 5 days, collecting 
   lizards (anoles)
-
 - 2007 – New Mexico, Summer, 1 week, collecting lizards
-
 - 2005 – New Mexico, Summer, 1 week, collecting lizards
-
 - 2005 – Arizona, Summer, 2 weeks, collecting lizards
-
 - 2004 – Arizona, Summer, 2 weeks, collecting lizards
-
 - 2001 – New York, Summer, 1 week, collecting treefrogs
-
 - 1999 – New York, Summer, 1 week, collecting treefrogs
 
-# CONFERENCES, MEETINGS, AND TALKS
+##### CONFERENCES, MEETINGS, AND TALKS
 - 2012 - Union College Seminar Series: Invited Speaker - Union 
-College.
--- *Presentation Title:* Genomic approaches to understanding Reptile 
+College.  
+    *Presentation Title:* Genomic approaches to understanding reptile 
 evolution.
-
-- 2012 – World Congress of Herpetology, Vancouver.
--- *Presentation Title:* The Genetics of Colorful Pigmentation in 
+- 2012 – World Congress of Herpetology, Vancouver.  
+    *Presentation Title:* The Genetics of Colorful Pigmentation in 
 Anolis Lizards.  
-
-- 2012 – Evolutionary Genomics Super Group, Broad Institute
--- *Presentation Title:* Ultraconserved Elements as Phylogenomic 
+- 2012 – Evolutionary Genomics Super Group, Broad Institute  
+    *Presentation Title:* Ultraconserved Elements as Phylogenomic 
 Markers.
-
-- 2012  – MCZ Lunchtime Seminar, Harvard University
--- *Presentation Title:* Thousands of ultraconserved elements in 
+- 2012  – MCZ Lunchtime Seminar, Harvard University  
+    *Presentation Title:* Thousands of ultraconserved elements in 
 combination with cloud computing and species-tree methods help
 resolve deep divergences in reptiles, mammals, and birds 
-
 - 2010 – The Genetics and Evolution of Animal Coloration
-
-- 2009 – Anole Symposium – Harvard University
--- *Presentation Title:* Anolis carolinensis: Pigmentation Genetics
+- 2009 – Anole Symposium – Harvard University  
+    *Presentation Title:* Anolis carolinensis: Pigmentation Genetics
 Poster Title: Genome scan identifies two loci associated with 
 color polymorphism in Anolis marmoratus
-
 - 2009 - Gordon Conference: Evolutionary & Ecological Functional
-Genomics - Tilton, New Hampshire.
--- *Poster Title:* Genetics of Colorful Pigmentation in Anolis Lizards
-
+Genomics - Tilton, New Hampshire.  
+    *Poster Title:* Genetics of Colorful Pigmentation in Anolis Lizards
 - 2009 – Society for Integrative and Comparative Biology Annual 
-Meeting, Boston Massachusetts.
--- *Presentation Title:* Evolution of Dewlap Pigmentation in Anoline 
+Meeting, Boston Massachusetts.  
+    *Presentation Title:* Evolution of Dewlap Pigmentation in Anoline 
 lizards.
-
-- 2008 – Union College Seminar Series: Invited Speaker - Union 
--- *College Presentation Title:* Population Structure of the Plateau 
+- 2008 – Union College Seminar Series: Invited Speaker - Union College   
+    *Presentation Title:* Population Structure of the Plateau 
 Striped Whiptail a Parthenogenetic Species of Lizard
-
 - 2007 - Island Biogeography Symposium, Harvard University, Cambridge
 Massachusetts
-
 - 2005 – American Society of Ichthyologists and Herpetologists 85th 
 Annual Meeting, Tampa, Florida
--- *Presentation Title:* Phylogenetic relationships among Australian 
+    - *Presentation Title:* Phylogenetic relationships among Australian 
 skinks of the genus Glaphyromorphus
-
 - 2004 – American Society of Ichthyologists and Herpetologists 84th 
 Annual Meeting, Norman, Oklahoma
-
 - 2004 – Evolution Conference, Fort Collins, Colorado
 
-# SOCIETY AFFILIATIONS
+##### SOCIETY AFFILIATIONS
 - American Society of Ichthyologists and Herpetologists (not presently 
     affiliated) 
-
 - Society for Comparative and Integrative Biology (not 
     presently affiliated)
 
