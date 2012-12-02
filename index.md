@@ -7,6 +7,7 @@ tagline: Nicholas G. Crawford
 ##### NICHOLAS G. CRAWFORD
 - Email: ngcrawfo@bu.edu
 - Website: www.ngcrawford.com
+- Twitter: twitter.com/ngcrawford
 
 ##### EDUCATION
 - **2007 to present – PhD student, Boston University**  
@@ -22,7 +23,7 @@ tagline: Nicholas G. Crawford
   *Thesis:* Population structure within the Plateau Striped
   Whiptail (*Aspidoscelis velox complex*) a parthenogenetic lizard  
  
-    - *Additional Project:* 
+    - *Additional Project:*  
     - Phylogenetic relationships among Australian skinks of the genus
 Glaphyromorphus
  
@@ -202,7 +203,7 @@ Biology and Introductory Zoology
 ##### FIELD EXPERIENCE
 - 2012 – Guantanamo Bay, Cuba, Summer, 1 week, collecting lizards  
 - 2009 – Guadeloupe, French West Indies, Summer, 5 days, collecting 
-  lizards (anoles)
+  lizards
 - 2007 – New Mexico, Summer, 1 week, collecting lizards
 - 2005 – New Mexico, Summer, 1 week, collecting lizards
 - 2005 – Arizona, Summer, 2 weeks, collecting lizards
