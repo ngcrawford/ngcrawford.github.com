@@ -10,30 +10,29 @@ tagline: Nicholas G. Crawford
 - Twitter: twitter.com/ngcrawford
 
 ##### EDUCATION
-- **2007 to present – PhD student, Boston University**  
+- **2007 to present  PhD student, Boston University**  
   *Advisor:* Christopher Schneider  
   *Thesis Title:* Anolis Lizard Genomics and Phylogenetics 
 
-    - *Additional Projects:*  
+    *Additional Projects:*  
     - Mammal, Reptile, and Avian Phylogenomics, with Travis Glenn  
     - Butterfly Speciation Genomics, with Sean Mullen  
 
-- **2004/07 – M.S. student, San Diego State University**  
+- **2004/07  M.S. student, San Diego State University**  
   *Advisor:* Tod Reeder  
   *Thesis:* Population structure within the Plateau Striped
   Whiptail (*Aspidoscelis velox complex*) a parthenogenetic lizard  
  
-    - *Additional Project:*  
+    *Additional Project:*  
     - Phylogenetic relationships among Australian skinks of the genus
 Glaphyromorphus
  
-- **1997/01 – B.S. Biology, Union College**  
+- **1997/01  B.S. Biology, Union College**  
   Graduated *Cum Laude* with Academic and Departmental Honors
-
 
 ##### AREAS OF SPECIALIZATION
 
-- Speciation, bioinformatics, molecular systematics, population 
+- Speciation, genomics, bioinformatics, molecular systematics, population 
 genetics, evolutionary biology, and herpetology
 
 ##### SKILLS AND TECHNIQUES
@@ -56,47 +55,47 @@ Maintaining Laboratory Compliance with Safety
 Regulations, Training Students and Techs, and Catching lizards
 
 ##### GRANTS AND SCHOLARSHIPS   
-- 2012 – Grand Challenges Award, Smithsonian Institute Consortia, 
+- 2012 - Grand Challenges Award, Smithsonian Institute Consortia, 
 Next Generation Phylogenetics, MJ Braun, K Wurdack, W Wcislo, J 
-Maldonado, K Helgen, S Brady, M Cummings, TC Glenn, BC 
-Faircloth, RT Brumﬁeld, E Braun, JC McCormack, NG Crawford, N 
+Maldonado, K Helgen, S Brady, M Cummings, TC Glenn, BC Faircloth,
+RT Brumeld, E Braun, JC McCormack, NG Crawford, N 
 White. $100,000. 
 
-- 2011 – Next-generation Sequencing Small Grant. Phylogenetic 
+- 2011 - Next-generation Sequencing Small Grant. Phylogenetic 
 utility of ultra- conserved elements for the avian tree of life. 
-MJ Braun, ND White, TC Glenn, BC Faircloth, RT Brumﬁeld, EL 
+MJ Braun, ND White, TC Glenn, BC Faircloth, RT Brumeld, EL 
 Braun, JE McCormack, NG Crawford. $10,000
 
-- 2011 – Amazon Education Research Grant (aws.amazon.com), 
+- 2011 - Amazon Education Research Grant (aws.amazon.com), 
 Computational Resources. BC Faircloth, NG Crawford, JE McCormack.
 $10,000.
 
-- 2010 – Amazon Education Research Grant (aws.amazon.com), 
+- 2010 - Amazon Education Research Grant (aws.amazon.com), 
 Computational Resources. NG Crawford, BC Faircloth, 
 TC Glenn. $7,500.
 
-- 2010 – Doctoral Dissertation Improvement Grant (NSF). 
+- 2010 - Doctoral Dissertation Improvement Grant (NSF). 
 NG Crawford. $15,000.
 
-- 2009 – Theodore Roosevelt Memorial Fund (American Museum of 
+- 2009 - Theodore Roosevelt Memorial Fund (American Museum of 
 Natural History) labwork/fieldwork. $1,500.
 
-- 2005 – Theodore Roosevelt Memorial Fund (American Museum of 
+- 2005 - Theodore Roosevelt Memorial Fund (American Museum of 
 Natural History) labwork/fieldwork. $1,960.
 
-- 2005 – Harry E. Hamber Memorial Scholarship, tuition. $1,400.
+- 2005 - Harry E. Hamber Memorial Scholarship, tuition. $1,400.
 
-- 2000 – IEF Grant, thesis research. $100.
+- 2000 - IEF Grant, thesis research. $100.
 
-- 2000 – NYSEP Grant, summer stipend. $1,700.
+- 2000 - NYSEP Grant, summer stipend. $1,700.
 
-- 1999 – Booth - Ferris Grant, summer stipend. $1,700.
+- 1999 - Booth - Ferris Grant, summer stipend. $1,700.
 
 ##### PUBLICATIONS
 - Marcus R. Kronforst, Matthew E.B. Hansen, **Nicholas G. Crawford**, 
 Jason R. Gallant, Rob J. Kulathinal, Durrell D. Kapan, and Sean 
-P. Mullen. *Hybridization reveals the evolving genomic 
-architecture of speciation in Heliconius butterflies*. Submitted.
+P. Mullen. 2013. *Hybridization reveals the evolving genomic 
+architecture of speciation*. In Review.
 
 - John E. McCormack, Michael G. Harvey, Brant C. Faircloth, **Nicholas 
 G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2012. *A 
@@ -148,9 +147,8 @@ Tree Analysis*. Genome Research. 22(4), 746-54.
 
 - **Nicholas G. Crawford**. 2010. *SMOGD: Software for the Measurement of
 Genetic Diversity*. Molecular Ecology Resources, 10: 556-557.  
-    - Associated website: http://www.ngcrawford.com/django/jost
 
-- **Nicholas G. Crawford**, Jaime Zaldívar-Rae, Cris Hagen, Amanda 
+- **Nicholas G. Crawford**, Jaime Zaldvar-Rae, Cris Hagen, Amanda 
 Schable, Erica Bree Rosenblum, Jeff A. Graves, Tod W. Reeder, 
 Michael G. Ritchie, Travis C. Glenn. 2007. *Thirteen polymorphic
 microsatellite DNA loci from whiptails of the genus Aspidoscelis 
@@ -159,7 +157,7 @@ Molecular Ecology Resources. 8: 219-223
 
 - **Nicholas G. Crawford**, Cris Hagen, Heather F. Sahli, Elizabeth A. 
 Stacy, Travis C. Glenn. 2007. *Fifteen polymorphic microsatellite 
-loci from Hawaii’s Metrosideros polymorpha (Myrtaceae: Myrtales), 
+loci from Hawaiis Metrosideros polymorpha (Myrtaceae: Myrtales), 
 a model species for ecology and evolution*. Molecular Ecology Resources, 8, 308-310.
 
 - Caleb R. Hickman, Maureen B. Peters, **Nicholas G. Crawford**, Cris 
@@ -170,7 +168,7 @@ Ecology Resources, 8, 1439-1441.
 
 - **Nicholas G. Crawford**, Maureen B. Peters, Cris Hagen, Travis C. 
 Glenn, Stephen K. Davis, Christopher M. Somers. 2007. *Twelve 
-polymorphic microsatellite loci from Sprague’s pipit, Anthus 
+polymorphic microsatellite loci from Spragues pipit, Anthus 
 spragueii (Motacillidae:Passeriformes), a threatened grassland 
 endemic songbird*. Molecular Ecology Resources, 9, 315-317.
 
@@ -186,70 +184,82 @@ woodsorrell (Oxalis alpina)*. Molecular Ecology Notes, 7, 1284-
 1286.
 
 ##### PROFESSIONAL EXPERIENCE
-- 2007-2011 – Teaching Fellow, Boston University: Introductory 
+- 2007-2011  Teaching Fellow, Boston University: Introductory 
 Biology, Genetics, Evolution, Animal Behavior
-- 2007 – South Carolina, Summer, 6 months, Research Technician, 
+- 2007 - South Carolina, Summer, 6 months, Research Technician, 
 supervised by Travis Glenn
-- 2006 – South Carolina, Summer, 6 weeks, Microsatellite loci 
+- 2006 - South Carolina, Summer, 6 weeks, Microsatellite loci 
 preparation at the Savannah River Ecology Laboratory, supervised 
 by Travis Glenn
-- 2004/2005 – Graduate Teaching Assistant, SDSU, Introductory 
+- 2004/2005 - Graduate Teaching Assistant, SDSU, Introductory 
 Biology and Introductory Zoology
-- 2004 – Research Assistant, SDSU, Advisor: Tod Reeder
-- 2002/03 – Research Associate, Boston Biochem
-- 2001 – Research Associate, Pfizer Pharmaceuticals
-- 2001 – Research Associate, Harvard Medical School
+- 2004 - Research Assistant, SDSU, Advisor: Tod Reeder
+- 2002/03 - Research Associate, Boston Biochem
+- 2001 - Research Associate, Pfizer Pharmaceuticals
+- 2001 - Research Associate, Harvard Medical School
 
 ##### FIELD EXPERIENCE
-- 2012 – Guantanamo Bay, Cuba, Summer, 1 week, collecting lizards  
-- 2009 – Guadeloupe, French West Indies, Summer, 5 days, collecting 
+- 2012 - Guantanamo Bay, Cuba, Summer, 1 week, collecting lizards  
+- 2009 - Guadeloupe, French West Indies, Summer, 5 days, collecting 
   lizards
-- 2007 – New Mexico, Summer, 1 week, collecting lizards
-- 2005 – New Mexico, Summer, 1 week, collecting lizards
-- 2005 – Arizona, Summer, 2 weeks, collecting lizards
-- 2004 – Arizona, Summer, 2 weeks, collecting lizards
-- 2001 – New York, Summer, 1 week, collecting treefrogs
-- 1999 – New York, Summer, 1 week, collecting treefrogs
+- 2007 - New Mexico, Summer, 1 week, collecting lizards
+- 2005 - New Mexico, Summer, 1 week, collecting lizards
+- 2005 - Arizona, Summer, 2 weeks, collecting lizards
+- 2004 - Arizona, Summer, 2 weeks, collecting lizards
+- 2001 - New York, Summer, 1 week, collecting treefrogs
+- 1999 - New York, Summer, 1 week, collecting treefrogs
 
 ##### CONFERENCES, MEETINGS, AND TALKS
 - 2012 - Union College Seminar Series: Invited Speaker - Union 
 College.  
     *Presentation Title:* Genomic approaches to understanding reptile 
 evolution.
-- 2012 – World Congress of Herpetology, Vancouver.  
+
+- 2012 - World Congress of Herpetology, Vancouver.  
     *Presentation Title:* The Genetics of Colorful Pigmentation in 
 Anolis Lizards.  
-- 2012 – Evolutionary Genomics Super Group, Broad Institute  
+
+- 2012 - Evolutionary Genomics Super Group, Broad Institute  
     *Presentation Title:* Ultraconserved Elements as Phylogenomic 
 Markers.
-- 2012  – MCZ Lunchtime Seminar, Harvard University  
+
+- 2012 - MCZ Lunchtime Seminar, Harvard University  
     *Presentation Title:* Thousands of ultraconserved elements in 
 combination with cloud computing and species-tree methods help
 resolve deep divergences in reptiles, mammals, and birds 
-- 2010 – The Genetics and Evolution of Animal Coloration
-- 2009 – Anole Symposium – Harvard University  
+
+- 2010 - The Genetics and Evolution of Animal Coloration
+
+- 2009 - Anole Symposium  Harvard University  
     *Presentation Title:* Anolis carolinensis: Pigmentation Genetics
 Poster Title: Genome scan identifies two loci associated with 
-color polymorphism in Anolis marmoratus
+color polymorphism in *Anolis marmoratus*
+
 - 2009 - Gordon Conference: Evolutionary & Ecological Functional
 Genomics - Tilton, New Hampshire.  
     *Poster Title:* Genetics of Colorful Pigmentation in Anolis Lizards
-- 2009 – Society for Integrative and Comparative Biology Annual 
+
+- 2009 - Society for Integrative and Comparative Biology Annual 
 Meeting, Boston Massachusetts.  
     *Presentation Title:* Evolution of Dewlap Pigmentation in Anoline 
-lizards.
-- 2008 – Union College Seminar Series: Invited Speaker - Union College   
+lizards
+
+- 2008 - Union College Seminar Series: Invited Speaker - Union College   
     *Presentation Title:* Population Structure of the Plateau 
 Striped Whiptail a Parthenogenetic Species of Lizard
+
 - 2007 - Island Biogeography Symposium, Harvard University, Cambridge
 Massachusetts
-- 2005 – American Society of Ichthyologists and Herpetologists 85th 
+
+- 2005 - American Society of Ichthyologists and Herpetologists 85th 
 Annual Meeting, Tampa, Florida
-    - *Presentation Title:* Phylogenetic relationships among Australian 
+    *Presentation Title:* Phylogenetic relationships among Australian 
 skinks of the genus Glaphyromorphus
-- 2004 – American Society of Ichthyologists and Herpetologists 84th 
+
+- 2004 - American Society of Ichthyologists and Herpetologists 84th 
 Annual Meeting, Norman, Oklahoma
-- 2004 – Evolution Conference, Fort Collins, Colorado
+
+- 2004 - Evolution Conference, Fort Collins, Colorado
 
 ##### SOCIETY AFFILIATIONS
 - American Society of Ichthyologists and Herpetologists (not presently 
