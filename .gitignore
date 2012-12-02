@@ -3,7 +3,7 @@ Thumbs.db
 
 _site/*
 _theme_packages/*
-
+*.bk
 
 
 !.gitkeep
