@@ -10,7 +10,7 @@ tagline: Nicholas G. Crawford
 - Twitter: twitter.com/ngcrawford
 
 ##### EDUCATION
-- **2007 to present  PhD student, Boston University**  
+- **2007 to May 2012 (expected) - PhD student, Boston University**  
   *Advisor:* Christopher Schneider  
   *Thesis Title:* Anolis Lizard Genomics and Phylogenetics 
 
@@ -18,7 +18,7 @@ tagline: Nicholas G. Crawford
     - Mammal, Reptile, and Avian Phylogenomics, with Travis Glenn  
     - Butterfly Speciation Genomics, with Sean Mullen  
 
-- **2004/07  M.S. student, San Diego State University**  
+- **2004/07 - M.S. Biology, San Diego State University**  
   *Advisor:* Tod Reeder  
   *Thesis:* Population structure within the Plateau Striped
   Whiptail (*Aspidoscelis velox complex*) a parthenogenetic lizard  
@@ -27,7 +27,7 @@ tagline: Nicholas G. Crawford
     - Phylogenetic relationships among Australian skinks of the genus
 Glaphyromorphus
  
-- **1997/01  B.S. Biology, Union College**  
+- **1997/01 - B.S. Biology, Union College**  
   Graduated *Cum Laude* with Academic and Departmental Honors
 
 ##### AREAS OF SPECIALIZATION
