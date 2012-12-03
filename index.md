@@ -34,8 +34,9 @@ tagline: Nicholas G. Crawford
 
 ##### AREAS OF SPECIALIZATION
 
-- Speciation, genomics, bioinformatics, molecular systematics, population 
-  genetics, evolutionary biology, and herpetology
+- Speciation, genomics, bioinformatics/computational biology, 
+  population genomics, phylogenomics, evolutionary biology, 
+  and herpetology
 
 ##### SKILLS AND TECHNIQUES
 
