@@ -6,8 +6,8 @@ tagline: Nicholas G. Crawford
 
 ##### NICHOLAS G. CRAWFORD
 - Email: ngcrawfo@bu.edu
-- Website: www.ngcrawford.com
-- Twitter: twitter.com/ngcrawford
+- Website: [www.ngcrawford.com] [1]
+- Twitter: [twitter.com/ngcrawford] [2]
 
 ##### EDUCATION
 - **2007/2012 (expected) - PhD student, Boston University**  
@@ -59,24 +59,24 @@ Regulations, Training Students and Techs, and Catching lizards
 - 2012 - Grand Challenges Award, Smithsonian Institute Consortia, 
 Next Generation Phylogenetics, MJ Braun, K Wurdack, W Wcislo, J 
 Maldonado, K Helgen, S Brady, M Cummings, TC Glenn, BC Faircloth,
-RT Brumeld, E Braun, JC McCormack, NG Crawford, N 
+RT Brumeld, E Braun, JC McCormack, **NG Crawford**, N 
 White. $100,000. 
 
 - 2011 - Next-generation Sequencing Small Grant. Phylogenetic 
 utility of ultra- conserved elements for the avian tree of life. 
 MJ Braun, ND White, TC Glenn, BC Faircloth, RT Brumeld, EL 
-Braun, JE McCormack, NG Crawford. $10,000
+Braun, JE McCormack, **NG Crawford**. $10,000
 
 - 2011 - Amazon Education Research Grant (aws.amazon.com), 
-Computational Resources. BC Faircloth, NG Crawford, JE McCormack.
+Computational Resources. BC Faircloth, **NG Crawford**, JE McCormack.
 $10,000.
 
 - 2010 - Amazon Education Research Grant (aws.amazon.com), 
-Computational Resources. NG Crawford, BC Faircloth, 
+Computational Resources. **NG Crawford**, BC Faircloth, 
 TC Glenn. $7,500.
 
 - 2010 - Doctoral Dissertation Improvement Grant (NSF). 
-NG Crawford. $15,000.
+**NG Crawford**, C Schneider. $15,000.
 
 - 2009 - Theodore Roosevelt Memorial Fund (American Museum of 
 Natural History) labwork/fieldwork. $1,500.
@@ -93,11 +93,6 @@ Natural History) labwork/fieldwork. $1,960.
 - 1999 - Booth - Ferris Grant, summer stipend. $1,700.
 
 ##### PUBLICATIONS
-- Marcus R. Kronforst, Matthew E.B. Hansen, **Nicholas G. Crawford**, 
-Jason R. Gallant, Rob J. Kulathinal, Durrell D. Kapan, and Sean 
-P. Mullen. 2013. *Hybridization reveals the evolving genomic 
-architecture of speciation*. In Review.
-
 - John E. McCormack, Michael G. Harvey, Brant C. Faircloth, **Nicholas 
 G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2012. *A 
 phylogeny of birds based on over 1,500 loci collected by 
@@ -269,3 +264,5 @@ Annual Meeting, Norman, Oklahoma
     presently affiliated)
 
 
+[1]: www.ngcrawford.com 
+[2]: www.twitter.com/ngcrawford
