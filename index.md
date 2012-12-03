@@ -10,7 +10,7 @@ tagline: Nicholas G. Crawford
 - Twitter: twitter.com/ngcrawford
 
 ##### EDUCATION
-- **2007 to May 2012 (expected) - PhD student, Boston University**  
+- **2007/2012 (expected) - PhD student, Boston University**  
   *Advisor:* Christopher Schneider  
   *Thesis Title:* Anolis Lizard Genomics and Phylogenetics 
 
@@ -36,18 +36,19 @@ Glaphyromorphus
 genetics, evolutionary biology, and herpetology
 
 ##### SKILLS AND TECHNIQUES
-- *Laboratory:* RNA-seq library construction, Primer Design, DNA 
-purification, PCR, qPCR (taqman assays), Sanger Sequencing (both 
-ABI3130 and ABI377 genetic analyzers), Microsatellite 
-Genotyping, and constructing cDNA libraries
 
 - *Programming Languages/Frameworks:* Python, MySQL/Sqlite3,
-Unix/Linux, LSF and Grid Engine Computer Clusters, 
-Hadoop/MapReduce, also some Perl, R, Html, and CSS
+Unix/Linux, LSF/SGE/AWS Clusters, Hadoop/MapReduce, also 
+some R, Perl, Html, and CSS
 
 - *Software:* GATK, Samtools, VCFtools, Tophat, Cufflinks, Bowtie2,
 Stampy, Blast/NCBI, MrBayes, Sequencher, Oligo (primer design), 
 Genemapper, GenAlEx, Arlequin 
+
+- *Laboratory:* RNA-seq library construction, Primer Design, DNA 
+purification, PCR, qPCR (taqman assays), Sanger Sequencing (both 
+ABI3130 and ABI377 genetic analyzers), Microsatellite 
+Genotyping, and constructing cDNA libraries
 
 - *Miscellaneous Skills:* Protein Purification (FPLC), 
 Mammalian Tissue Culture, Ordering and Stocking, 
