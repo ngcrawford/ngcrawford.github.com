@@ -1,6 +1,14 @@
+import sys
 import re
 
-fin = open("index.md")
+"""
+Converts markdown formated CV to plaintext.
+
+$ python md2txt_csv.py index.md > cv.txt
+"""
+
+fin = sys.argv[1]
+fin = open(fin,'rU')
 
 header = False
 for count, line in enumerate(fin):
@@ -10,6 +18,7 @@ for count, line in enumerate(fin):
 	if line == "---" and header == False:
 		header = True
 		continue
+
 	if line == "---" and header == True:
 		header = False
 		continue
@@ -17,9 +26,7 @@ for count, line in enumerate(fin):
 	if header == True:
 		continue
 
-
-	# if re.search("^#+",line) != None:
-	# 	print line
+	# All sorts of REGEX fun!
 	line = re.sub("^#+\s", "", line)
 	line = re.sub("[*]*", "", line)
 	line = re.sub("^- ",'  ', line)
@@ -32,6 +39,7 @@ for count, line in enumerate(fin):
 
 	if line.startswith('[') == True:
 		continue
+
 	print line
 	
 
