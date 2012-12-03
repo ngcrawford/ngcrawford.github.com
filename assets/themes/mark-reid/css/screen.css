@@ -34,8 +34,8 @@ img { -ms-interpolation-mode:bicubic; }
 html>body { font-size:16px; }
 p { margin: 0 0 1.5em 0; text-align: justify; }
 
-a { text-decoration: none; color: #339; }
-a:hover { text-decoration: underline; color: #33f; }
+a { text-decoration: none; color: black; }
+a:hover { text-decoration: underline; color: red; }
 a.pdf:before { 
 	margin-right: 1em;
 	content: url(/files/css/icon_pdf.gif); }
@@ -162,8 +162,8 @@ caption {
 
 /* @group Lists */
 ul {
-	margin-top: 1.5em;
-	margin-bottom: 1.5em;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
 	line-height: 1.5em;
 	padding-left: 1.5em;
 }
