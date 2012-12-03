@@ -10,6 +10,11 @@ tagline: Nicholas G. Crawford
 - Website: [www.ngcrawford.com] [1]
 - Twitter: [twitter.com/ngcrawford] [2]
 
+##### AREAS OF SPECIALIZATION
+
+- Bioinformatics/computational biology, population genomics, 
+  phylogenomics, evolutionary biology, speciation, ultra conserved elements, and herpetology
+
 ##### EDUCATION 
 
 - **2007/2012 (expected) - PhD student, Boston University**  
@@ -27,31 +32,25 @@ tagline: Nicholas G. Crawford
  
     *Additional Project:*  
     - Phylogenetic relationships among Australian skinks of the genus
-    Glaphyromorphus
+      Glaphyromorphus
  
 - **1997/01 - B.S. Biology, Union College**  
   Graduated *Cum Laude* with Academic and Departmental Honors
 
-##### AREAS OF SPECIALIZATION
-
-- Speciation, genomics, bioinformatics/computational biology, 
-  population genomics, phylogenomics, evolutionary biology, 
-  and herpetology
-
 ##### SKILLS AND TECHNIQUES
 
-- *Programming Languages/Frameworks:* Python: Numpy Matplotlib Pandas Flask Django, 
-  MySQL/Sqlite3, Git/Github, Unix/Linux, LSF/SGE/AWS Clusters, Hadoop/MapReduce,
-  also some R, Perl, Html, and CSS
+- *Programming Languages/Frameworks:* Python: Numpy Matplotlib 
+  Pandas Flask Django, MySQL/Sqlite3, Git/Github, Unix/Linux,
+  LSF/SGE/AWS Clusters, Hadoop/MapReduce, also some R, Perl, Html,
+  and CSS
 
 - *Software:* GATK, Samtools, VCFtools, Tophat, Cufflinks, Bowtie2,
   Stampy, Blast/NCBI, MrBayes, Sequencher, Oligo (primer design), 
   Genemapper, GenAlEx, Arlequin 
 
 - *Laboratory:* Genomic and RNA-seq Illumina library construction, 
-  Primer Design, DNA purification, PCR, qPCR (taqman and Kappa assays), 
-  Sanger Sequencing (both ABI3130 and ABI377 genetic analyzers), 
-  Microsatellite Genotyping, Bioanalyzer, and constructing cDNA libraries
+  Primer Design, DNA purification, PCR, qPCR (Taqman and Kappa 
+  assays), Sanger Sequencing (both ABI3130 and ABI377 genetic analyzers), Microsatellite Genotyping, Bioanalyzer, and constructing cDNA libraries
 
 - *Miscellaneous Skills:* Protein Purification (FPLC), 
   Mammalian Tissue Culture, Ordering and Stocking, 
@@ -98,9 +97,9 @@ tagline: Nicholas G. Crawford
 
 ##### PUBLICATIONS
 
-- John E. McCormack, Michael G. Harvey, Brant C. Faircloth, **Nicholas 
-  G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2012. *A 
-  phylogeny of birds based on over 1,500 loci collected by 
+- John E. McCormack, Michael G. Harvey, Brant C. Faircloth, 
+  **Nicholas G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2012.
+  *A phylogeny of birds based on over 1,500 loci collected by 
   target enrichment and high-throughput sequencing*. Provisionally 
   accepted.
 
@@ -129,8 +128,8 @@ tagline: Nicholas G. Crawford
   community-based genetic nomenclature for anole lizards*. BMC 
   genomics, 12(1), 554.
   
-- **Nicholas G. Crawford**, Brant C. Faircloth, John E. McCormack, Robb 
-  T. Brumfield, Kevin Winker, Travis C. Glenn. 2012. *More than 
+- **Nicholas G. Crawford**, Brant C. Faircloth, John E. McCormack, 
+  Robb T. Brumfield, Kevin Winker, Travis C. Glenn. 2012. *More than 
   1000 ultraconserved elements provide evidence that turtles are 
   the sister group of archosaurs*. Biology Letters. 8(5), 783-786.
 
@@ -146,8 +145,8 @@ tagline: Nicholas G. Crawford
   Resolve Placental Mammal Phylogeny when Combined with Species 
   Tree Analysis*. Genome Research. 22(4), 746-54.
 
-- **Nicholas G. Crawford**. 2010. *SMOGD: Software for the Measurement of
-  Genetic Diversity*. Molecular Ecology Resources, 10: 556-557.  
+- **Nicholas G. Crawford**. 2010. *SMOGD: Software for the 
+  Measurement of Genetic Diversity*. Molecular Ecology Resources, 10: 556-557.  
 
 - **Nicholas G. Crawford**, Jaime Zaldvar-Rae, Cris Hagen, Amanda 
   Schable, Erica Bree Rosenblum, Jeff A. Graves, Tod W. Reeder, 
@@ -162,8 +161,8 @@ tagline: Nicholas G. Crawford
   a model species for ecology and evolution*. Molecular Ecology 
   Resources, 8, 308-310.
 
-- Caleb R. Hickman, Maureen B. Peters, **Nicholas G. Crawford**, Cris 
-  Hagen, Travis C. Glenn, Christopher M. Sommers. 2008.
+- Caleb R. Hickman, Maureen B. Peters, **Nicholas G. Crawford**, 
+  Cris Hagen, Travis C. Glenn, Christopher M. Sommers. 2008.
   *Development and characterization of microsatellite loci in the
   American white pelican (Pelecanus erythrorhynchos)*. Molecular
   Ecology Resources, 8, 1439-1441.
@@ -179,10 +178,9 @@ tagline: Nicholas G. Crawford
   of the plateau striped whiptail (Aspidoscelis velox Complex). 
   Masters Thesis: San Diego State University.
 
-- Olga V. Tsyusko, Tracey D. Tuberville, Maureen B. Peters, **Nicholas
-  Crawford**, Cris Hagen, Steve Weller, Ann Sakai, and Travis C. 
-  Glenn. 2007. *Microsatellite markers isolated from polyploid 
-  woodsorrell (Oxalis alpina)*. Molecular Ecology Notes, 7, 1284-1286.
+- Olga V. Tsyusko, Tracey D. Tuberville, Maureen B. Peters, 
+  **Nicholas G. Crawford**, Cris Hagen, Steve Weller, Ann Sakai, and Travis C. Glenn. 2007. *Microsatellite markers isolated from polyploid woodsorrell (Oxalis alpina)*. Molecular Ecology Notes, 
+  7, 1284-1286.
 
 ##### PROFESSIONAL EXPERIENCE
 
@@ -215,8 +213,7 @@ tagline: Nicholas G. Crawford
 ##### CONFERENCES, MEETINGS, AND TALKS
 
 - 2012 - Union College Seminar Series: Invited Speaker - Union College.  
-    *Presentation Title:* Genomic approaches to understanding reptile 
-    evolution.
+    *Presentation Title:* Genomic approaches to understanding reptile evolution.
 
 - 2012 - World Congress of Herpetology, Vancouver.  
     *Presentation Title:* The Genetics of Colorful Pigmentation in 
@@ -265,8 +262,8 @@ tagline: Nicholas G. Crawford
 - 2004 - Evolution Conference, Fort Collins, Colorado
 
 ##### SOCIETY AFFILIATIONS
-- American Society of Ichthyologists and Herpetologists (not presently 
-  affiliated) 
+- American Society of Ichthyologists and Herpetologists (not 
+  presently affiliated) 
 - Society for Comparative and Integrative Biology (not 
   presently affiliated)
 
