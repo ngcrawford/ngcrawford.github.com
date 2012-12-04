@@ -7,8 +7,9 @@ tagline: Nicholas G. Crawford
 ##### NICHOLAS G. CRAWFORD
 
 - Email: ngcrawfo@bu.edu
-- Website: [www.ngcrawford.com] [1]
+- Website: [ngcrawford.com] [1]
 - Twitter: [twitter.com/ngcrawford] [2]
+- Github: [github.com/ngcrawford] [3]
 
 ##### AREAS OF SPECIALIZATION
 
@@ -39,18 +40,15 @@ tagline: Nicholas G. Crawford
 
 ##### SKILLS AND TECHNIQUES
 
-- *Programming Languages/Frameworks:* Python (Numpy Scipy Matplotlib 
-  Pandas Flask Django), MySQL/Sqlite3, Git/Github, Unix/Linux,
-  LSF/SGE/AWS Clusters, Hadoop/MapReduce, also some R, Perl, Html,
-  and CSS
+- *Programming Languages/Frameworks:* Python (modules: Numpy, Scipy, 
+  Matplotlib, Biopython, Pysam, Multiprocessing, iPython, MrJob, Pandas, Flask, and Django), MySQL/Sqlite3, Git/Github, Unix/Linux, LSF/SGE/AWS Clusters, Hadoop/MapReduce, also some R, Perl, Html, and CSS
 
 - *Software:* GATK, Samtools, VCFtools, Tophat, Cufflinks, Bowtie2,
   Stampy, Blast/NCBI, MrBayes, Sequencher, Oligo (primer design), 
   Genemapper, GenAlEx, Arlequin 
 
-- *Laboratory:* Genomic and RNA-seq Illumina library construction, 
-  Primer Design, DNA purification, PCR, qPCR (Taqman and Kappa 
-  assays), Sanger Sequencing (both ABI3130 and ABI377 genetic analyzers), Microsatellite Genotyping, Bioanalyzer, and constructing cDNA libraries
+- *Laboratory:* Genomic, RAD-tag, and RNA-seq Illumina library 
+  construction, Primer Design, DNA purification, PCR, qPCR (Taqman and Kappa assays), Sanger Sequencing (both ABI3130 and ABI377 genetic analyzers), Microsatellite Genotyping, Bioanalyzer, and constructing cDNA libraries
 
 - *Miscellaneous Skills:* Protein Purification (FPLC), 
   Mammalian Tissue Culture, Ordering and Stocking, 
@@ -270,3 +268,4 @@ tagline: Nicholas G. Crawford
 
 [1]: www.ngcrawford.com 
 [2]: www.twitter.com/ngcrawford
+[3]: https://github.com/ngcrawford
