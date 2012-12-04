@@ -265,6 +265,6 @@ tagline: Nicholas G. Crawford
   presently affiliated)
 
 
-[1]: www.ngcrawford.com 
-[2]: www.twitter.com/ngcrawford
+[1]: http://www.ngcrawford.com 
+[2]: http://www.twitter.com/ngcrawford
 [3]: https://github.com/ngcrawford
