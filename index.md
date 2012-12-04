@@ -14,7 +14,8 @@ tagline: Nicholas G. Crawford
 ##### AREAS OF SPECIALIZATION
 
 - Bioinformatics/computational biology, population genomics, 
-  phylogenomics, evolutionary biology, speciation, ultra conserved elements, and herpetology
+  phylogenomics, evolutionary biology, speciation, ultra conserved 
+  elements, and herpetology
 
 ##### EDUCATION 
 
@@ -41,13 +42,20 @@ tagline: Nicholas G. Crawford
 ##### SKILLS AND TECHNIQUES
 
 - *Programming Languages/Frameworks:* Python (modules: Numpy, Scipy, 
-  Matplotlib, Biopython, Pysam, Multiprocessing, iPython, MrJob, Pandas, Flask, and Django), MySQL/Sqlite3, Git/Github, Unix/Linux, LSF/SGE/AWS Clusters, Hadoop/MapReduce, also some R, Perl, Html, and CSS
+  Matplotlib, Biopython, Pysam, Multiprocessing, iPython, MrJob, 
+  Pandas, Flask, and Django), MySQL/Sqlite3, Git/Github, Unix/Linux, 
+  LSF/SGE/AWS Clusters, Hadoop/MapReduce, also some R, Perl, Html, 
+  and CSS
 
 - *Software:* GATK, Samtools, VCFtools, Tophat, Cufflinks, Bowtie2,
-  Stampy, ABySS, Trinity, GO Elite, Blast/NCBI, MrBayes, Sequencher, Oligo (primer design), Genemapper, GenAlEx, Arlequin 
+  Stampy, ABySS, Trinity, GO Elite, Blast/NCBI, MrBayes, Sequencher, 
+  Oligo (primer design), Genemapper, GenAlEx, Arlequin 
 
 - *Laboratory:* Genomic, RAD-tag, and RNA-seq Illumina library 
-  construction, Primer Design, DNA purification, PCR, qPCR (Taqman and Kappa assays), Sanger Sequencing (both ABI3130 and ABI377 genetic analyzers), Microsatellite Genotyping, Bioanalyzer, and constructing cDNA libraries
+  construction, Primer Design, DNA purification, PCR, qPCR (Taqman 
+  and Kappa assays), Sanger Sequencing (both ABI3130 and ABI377 
+  genetic analyzers), Microsatellite Genotyping, Bioanalyzer, and 
+  constructing cDNA libraries
 
 - *Miscellaneous Skills:* Protein Purification (FPLC), 
   Mammalian Tissue Culture, Ordering and Stocking, 
@@ -152,11 +160,11 @@ tagline: Nicholas G. Crawford
   (Teiidae: Squamata) and related cnemidophorine lizards*.
   Molecular Ecology Resources. 8: 219-223
 
-- **Nicholas G. Crawford**, Cris Hagen, Heather F. Sahli, Elizabeth A. 
-  Stacy, Travis C. Glenn. 2007. *Fifteen polymorphic microsatellite 
-  loci from Hawaiis Metrosideros polymorpha (Myrtaceae: Myrtales), 
-  a model species for ecology and evolution*. Molecular Ecology 
-  Resources, 8, 308-310.
+- **Nicholas G. Crawford**, Cris Hagen, Heather F. Sahli, Elizabeth 
+  A. Stacy, Travis C. Glenn. 2007. *Fifteen polymorphic 
+  microsatellite loci from Hawaiis Metrosideros polymorpha 
+  Myrtaceae: Myrtales), a model species for ecology and evolution*.
+  Molecular Ecology Resources, 8, 308-310.
 
 - Caleb R. Hickman, Maureen B. Peters, **Nicholas G. Crawford**, 
   Cris Hagen, Travis C. Glenn, Christopher M. Sommers. 2008.
@@ -176,7 +184,9 @@ tagline: Nicholas G. Crawford
   Masters Thesis: San Diego State University.
 
 - Olga V. Tsyusko, Tracey D. Tuberville, Maureen B. Peters, 
-  **Nicholas G. Crawford**, Cris Hagen, Steve Weller, Ann Sakai, and Travis C. Glenn. 2007. *Microsatellite markers isolated from polyploid woodsorrell (Oxalis alpina)*. Molecular Ecology Notes, 
+  **Nicholas G. Crawford**, Cris Hagen, Steve Weller, Ann Sakai, and
+  Travis C. Glenn. 2007. *Microsatellite markers isolated from 
+  polyploid woodsorrell (Oxalis alpina)*. Molecular Ecology Notes, 
   7, 1284-1286.
 
 ##### PROFESSIONAL EXPERIENCE
