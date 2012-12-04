@@ -39,8 +39,8 @@ tagline: Nicholas G. Crawford
 
 ##### SKILLS AND TECHNIQUES
 
-- *Programming Languages/Frameworks:* Python: Numpy Matplotlib 
-  Pandas Flask Django, MySQL/Sqlite3, Git/Github, Unix/Linux,
+- *Programming Languages/Frameworks:* Python (Numpy Scipy Matplotlib 
+  Pandas Flask Django), MySQL/Sqlite3, Git/Github, Unix/Linux,
   LSF/SGE/AWS Clusters, Hadoop/MapReduce, also some R, Perl, Html,
   and CSS
 
