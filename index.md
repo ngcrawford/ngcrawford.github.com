@@ -44,8 +44,7 @@ tagline: Nicholas G. Crawford
   Matplotlib, Biopython, Pysam, Multiprocessing, iPython, MrJob, Pandas, Flask, and Django), MySQL/Sqlite3, Git/Github, Unix/Linux, LSF/SGE/AWS Clusters, Hadoop/MapReduce, also some R, Perl, Html, and CSS
 
 - *Software:* GATK, Samtools, VCFtools, Tophat, Cufflinks, Bowtie2,
-  Stampy, Blast/NCBI, MrBayes, Sequencher, Oligo (primer design), 
-  Genemapper, GenAlEx, Arlequin 
+  Stampy, ABySS, Trinity, GO Elite, Blast/NCBI, MrBayes, Sequencher, Oligo (primer design), Genemapper, GenAlEx, Arlequin 
 
 - *Laboratory:* Genomic, RAD-tag, and RNA-seq Illumina library 
   construction, Primer Design, DNA purification, PCR, qPCR (Taqman and Kappa assays), Sanger Sequencing (both ABI3130 and ABI377 genetic analyzers), Microsatellite Genotyping, Bioanalyzer, and constructing cDNA libraries
