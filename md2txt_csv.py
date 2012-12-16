@@ -1,5 +1,7 @@
-import sys
+
 import re
+import sys
+import subprocess
 
 """
 Converts markdown formated CV to plaintext.
@@ -41,5 +43,9 @@ for count, line in enumerate(fin):
 		continue
 
 	print line
-	
+
+"""
+subproces
+gimli -y -f  index.md -o assets/downloads/
+"""
 
