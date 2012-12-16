@@ -13,7 +13,7 @@ tagline: Nicholas G. Crawford
 
 ##### AREAS OF SPECIALIZATION
 
-- Bioinformatics/computational biology, population genomics, 
+- Bioinformatics, computational biology, population genomics, 
   phylogenomics, evolutionary biology, speciation, ultra conserved 
   elements, and herpetology
 
@@ -41,15 +41,15 @@ tagline: Nicholas G. Crawford
 
 ##### SKILLS AND TECHNIQUES
 
-- *Programming Languages/Frameworks:* Python (modules: Numpy, Scipy, 
+- *Programming Languages/Frameworks:* Python (Modules: Numpy, Scipy, 
   Matplotlib, Biopython, Pysam, Multiprocessing, iPython, MrJob, 
   Pandas, Flask, and Django), MySQL/Sqlite3, Git/Github, Unix/Linux, 
   LSF/SGE/AWS Clusters, Hadoop/MapReduce, also some R, Perl, Html, 
   and CSS
 
-- *Software:* GATK, Samtools, VCFtools, Tophat, Cufflinks, Bowtie2,
-  Stampy, ABySS, Trinity, GO Elite, Blast/NCBI, MrBayes, Sequencher, 
-  Oligo (primer design), Genemapper, GenAlEx, Arlequin 
+- *Software:* GATK, ABySS, Trinity, Breakdancer, Samtools, VCFtools, 
+  Tophat, Cufflinks, Bowtie2, Stampy, GO Elite, Blast/NCBI, MrBayes,
+  Sequencher, Oligo (primer design), Genemapper, GenAlEx, Arlequin 
 
 - *Laboratory:* Genomic, RAD-tag, and RNA-seq Illumina library 
   construction, Primer Design, DNA purification, PCR, qPCR (Taqman 
@@ -103,10 +103,9 @@ tagline: Nicholas G. Crawford
 ##### PUBLICATIONS
 
 - John E. McCormack, Michael G. Harvey, Brant C. Faircloth, 
-  **Nicholas G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2012.
+  **Nicholas G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2013.
   *A phylogeny of birds based on over 1,500 loci collected by 
-  target enrichment and high-throughput sequencing*. Provisionally 
-  accepted.
+  target enrichment and high-throughput sequencing*. PLoS ONE. Accepted.
 
 - John A. St. John, Edward L. Braun, Sally R. Isberg, Lee G. Miles, 
   Amanda Y. Chong, Jamie Gongora, Pauline Dalzell, Christopher 

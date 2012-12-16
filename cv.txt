@@ -2,8 +2,15 @@
 NICHOLAS G. CRAWFORD
 
   Email: ngcrawfo@bu.edu
-  Website: www.ngcrawford.com 
+  Website: ngcrawford.com 
   Twitter: twitter.com/ngcrawford 
+  Github: github.com/ngcrawford 
+
+AREAS OF SPECIALIZATION
+
+  Bioinformatics, computational biology, population genomics, 
+  phylogenomics, evolutionary biology, speciation, ultra conserved 
+  elements, and herpetology
 
 EDUCATION 
 
@@ -22,30 +29,28 @@ EDUCATION
  
      Additional Project:  
       Phylogenetic relationships among Australian skinks of the genus
-     Glaphyromorphus
+       Glaphyromorphus
  
   1997/01 - B.S. Biology, Union College  
   Graduated Cum Laude with Academic and Departmental Honors
 
-AREAS OF SPECIALIZATION
-
-  Speciation, genomics, bioinformatics, molecular systematics, population 
-  genetics, evolutionary biology, and herpetology
-
 SKILLS AND TECHNIQUES
 
-  Programming Languages/Frameworks: Python: Numpy Matplotlib Pandas Flask Django, 
-  MySQL/Sqlite3, Git/Github, Unix/Linux, LSF/SGE/AWS Clusters, Hadoop/MapReduce,
-  also some R, Perl, Html, and CSS
+  Programming Languages/Frameworks: Python (Modules: Numpy, Scipy, 
+  Matplotlib, Biopython, Pysam, Multiprocessing, iPython, MrJob, 
+  Pandas, Flask, and Django), MySQL/Sqlite3, Git/Github, Unix/Linux, 
+  LSF/SGE/AWS Clusters, Hadoop/MapReduce, also some R, Perl, Html, 
+  and CSS
 
-  Software: GATK, Samtools, VCFtools, Tophat, Cufflinks, Bowtie2,
-  Stampy, Blast/NCBI, MrBayes, Sequencher, Oligo (primer design), 
-  Genemapper, GenAlEx, Arlequin 
+  Software: GATK, ABySS, Trinity, Breakdancer, Samtools, VCFtools, 
+  Tophat, Cufflinks, Bowtie2, Stampy, GO Elite, Blast/NCBI, MrBayes,
+  Sequencher, Oligo (primer design), Genemapper, GenAlEx, Arlequin 
 
-  Laboratory: Genomic and RNA-seq Illumina library construction, 
-  Primer Design, DNA purification, PCR, qPCR (taqman and Kappa assays), 
-  Sanger Sequencing (both ABI3130 and ABI377 genetic analyzers), 
-  Microsatellite Genotyping, Bioanalyzer, and constructing cDNA libraries
+  Laboratory: Genomic, RAD-tag, and RNA-seq Illumina library 
+  construction, Primer Design, DNA purification, PCR, qPCR (Taqman 
+  and Kappa assays), Sanger Sequencing (both ABI3130 and ABI377 
+  genetic analyzers), Microsatellite Genotyping, Bioanalyzer, and 
+  constructing cDNA libraries
 
   Miscellaneous Skills: Protein Purification (FPLC), 
   Mammalian Tissue Culture, Ordering and Stocking, 
@@ -92,11 +97,10 @@ GRANTS AND SCHOLARSHIPS
 
 PUBLICATIONS
 
-  John E. McCormack, Michael G. Harvey, Brant C. Faircloth, Nicholas 
-  G. Crawford, Travis C. Glenn, Robb T. Brumfield. 2012. A 
-  phylogeny of birds based on over 1,500 loci collected by 
-  target enrichment and high-throughput sequencing. Provisionally 
-  accepted.
+  John E. McCormack, Michael G. Harvey, Brant C. Faircloth, 
+  Nicholas G. Crawford, Travis C. Glenn, Robb T. Brumfield. 2013.
+  A phylogeny of birds based on over 1,500 loci collected by 
+  target enrichment and high-throughput sequencing. PLoS ONE. Accepted.
 
   John A. St. John, Edward L. Braun, Sally R. Isberg, Lee G. Miles, 
   Amanda Y. Chong, Jamie Gongora, Pauline Dalzell, Christopher 
@@ -123,8 +127,8 @@ PUBLICATIONS
   community-based genetic nomenclature for anole lizards. BMC 
   genomics, 12(1), 554.
   
-  Nicholas G. Crawford, Brant C. Faircloth, John E. McCormack, Robb 
-  T. Brumfield, Kevin Winker, Travis C. Glenn. 2012. More than 
+  Nicholas G. Crawford, Brant C. Faircloth, John E. McCormack, 
+  Robb T. Brumfield, Kevin Winker, Travis C. Glenn. 2012. More than 
   1000 ultraconserved elements provide evidence that turtles are 
   the sister group of archosaurs. Biology Letters. 8(5), 783-786.
 
@@ -140,8 +144,8 @@ PUBLICATIONS
   Resolve Placental Mammal Phylogeny when Combined with Species 
   Tree Analysis. Genome Research. 22(4), 746-54.
 
-  Nicholas G. Crawford. 2010. SMOGD: Software for the Measurement of
-  Genetic Diversity. Molecular Ecology Resources, 10: 556-557.  
+  Nicholas G. Crawford. 2010. SMOGD: Software for the 
+  Measurement of Genetic Diversity. Molecular Ecology Resources, 10: 556-557.  
 
   Nicholas G. Crawford, Jaime Zaldvar-Rae, Cris Hagen, Amanda 
   Schable, Erica Bree Rosenblum, Jeff A. Graves, Tod W. Reeder, 
@@ -150,14 +154,14 @@ PUBLICATIONS
   (Teiidae: Squamata) and related cnemidophorine lizards.
   Molecular Ecology Resources. 8: 219-223
 
-  Nicholas G. Crawford, Cris Hagen, Heather F. Sahli, Elizabeth A. 
-  Stacy, Travis C. Glenn. 2007. Fifteen polymorphic microsatellite 
-  loci from Hawaiis Metrosideros polymorpha (Myrtaceae: Myrtales), 
-  a model species for ecology and evolution. Molecular Ecology 
-  Resources, 8, 308-310.
+  Nicholas G. Crawford, Cris Hagen, Heather F. Sahli, Elizabeth 
+  A. Stacy, Travis C. Glenn. 2007. Fifteen polymorphic 
+  microsatellite loci from Hawaiis Metrosideros polymorpha 
+  Myrtaceae: Myrtales), a model species for ecology and evolution.
+  Molecular Ecology Resources, 8, 308-310.
 
-  Caleb R. Hickman, Maureen B. Peters, Nicholas G. Crawford, Cris 
-  Hagen, Travis C. Glenn, Christopher M. Sommers. 2008.
+  Caleb R. Hickman, Maureen B. Peters, Nicholas G. Crawford, 
+  Cris Hagen, Travis C. Glenn, Christopher M. Sommers. 2008.
   Development and characterization of microsatellite loci in the
   American white pelican (Pelecanus erythrorhynchos). Molecular
   Ecology Resources, 8, 1439-1441.
@@ -173,10 +177,11 @@ PUBLICATIONS
   of the plateau striped whiptail (Aspidoscelis velox Complex). 
   Masters Thesis: San Diego State University.
 
-  Olga V. Tsyusko, Tracey D. Tuberville, Maureen B. Peters, Nicholas
-  Crawford, Cris Hagen, Steve Weller, Ann Sakai, and Travis C. 
-  Glenn. 2007. Microsatellite markers isolated from polyploid 
-  woodsorrell (Oxalis alpina). Molecular Ecology Notes, 7, 1284-1286.
+  Olga V. Tsyusko, Tracey D. Tuberville, Maureen B. Peters, 
+  Nicholas G. Crawford, Cris Hagen, Steve Weller, Ann Sakai, and
+  Travis C. Glenn. 2007. Microsatellite markers isolated from 
+  polyploid woodsorrell (Oxalis alpina). Molecular Ecology Notes, 
+  7, 1284-1286.
 
 PROFESSIONAL EXPERIENCE
 
@@ -209,8 +214,7 @@ FIELD EXPERIENCE
 CONFERENCES, MEETINGS, AND TALKS
 
   2012 - Union College Seminar Series: Invited Speaker - Union College.  
-     Presentation Title: Genomic approaches to understanding reptile 
-     evolution.
+     Presentation Title: Genomic approaches to understanding reptile evolution.
 
   2012 - World Congress of Herpetology, Vancouver.  
      Presentation Title: The Genetics of Colorful Pigmentation in 
@@ -259,8 +263,8 @@ CONFERENCES, MEETINGS, AND TALKS
   2004 - Evolution Conference, Fort Collins, Colorado
 
 SOCIETY AFFILIATIONS
-  American Society of Ichthyologists and Herpetologists (not presently 
-  affiliated) 
+  American Society of Ichthyologists and Herpetologists (not 
+  presently affiliated) 
   Society for Comparative and Integrative Biology (not 
   presently affiliated)
 
