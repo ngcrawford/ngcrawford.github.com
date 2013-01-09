@@ -19,7 +19,7 @@ tagline: Nicholas G. Crawford
 
 ##### EDUCATION 
 
-- **2007 - May 2012 - PhD student, Boston University**  
+- **2007 - May 2012 - Ph.D. Biology, Boston University**  
   *Advisor:* Christopher Schneider  
   *Thesis Title:* Anolis Lizard Genomics and Phylogenetics 
 
