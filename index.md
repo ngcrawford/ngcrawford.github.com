@@ -234,7 +234,9 @@ tagline: Nicholas G. Crawford
     combination with cloud computing and species-tree methods help
     resolve deep divergences in reptiles, mammals, and birds 
 
-- 2010 - The Genetics and Evolution of Animal Coloration
+- 2010 - The Genetics and Evolution of Animal Coloration, Radcliffe Workshop
+    *Presentation Title:* Identifying coloration genes when you 
+     can’t easily do QTL mapping
 
 - 2009 - Anole Symposium  Harvard University  
     *Presentation Title:* Anolis carolinensis: Pigmentation Genetics
