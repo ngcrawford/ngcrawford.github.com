@@ -102,6 +102,13 @@ tagline: Nicholas G. Crawford
 
 ##### PUBLICATIONS
 
+- Martha M. Muñoz, **Nicholas G. Crawford**, Thomas J. McGreevy, 
+  Rebecca D. Tarvin, Nicholas J. Messana, Liam J. Revell, Rosanne M. 
+  Zandvliet, Juanita M. Hopwood, Elbert Mock, André L. Schneider, 
+  and Christopher J. Schneider. 2013. *Divergence in coloration and 
+  the evolution of reproductive isolation in the Anolis marmoratus 
+  species complex.* Molecular Ecology. Accepted.
+
 - John E. McCormack, Michael G. Harvey, Brant C. Faircloth, 
   **Nicholas G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2013.
   *A phylogeny of birds based on over 1,500 loci collected by 
