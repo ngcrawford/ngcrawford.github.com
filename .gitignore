@@ -5,7 +5,7 @@ _site/*
 _theme_packages/*
 *.bk
 *private*
-
+Cover*
 !.gitkeep
 
 .rbenv-version
