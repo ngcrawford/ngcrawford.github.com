@@ -112,7 +112,7 @@ tagline: Nicholas G. Crawford
 - John E. McCormack, Michael G. Harvey, Brant C. Faircloth, 
   **Nicholas G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2013.
   *A phylogeny of birds based on over 1,500 loci collected by 
-  target enrichment and high-throughput sequencing*. PLoS ONE. Accepted.
+  target enrichment and high-throughput sequencing*. PLoS ONE. 8(1), e54848.
 
 - John A. St. John, Edward L. Braun, Sally R. Isberg, Lee G. Miles, 
   Amanda Y. Chong, Jamie Gongora, Pauline Dalzell, Christopher 
