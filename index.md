@@ -107,12 +107,13 @@ tagline: Nicholas G. Crawford
   Zandvliet, Juanita M. Hopwood, Elbert Mock, André L. Schneider, 
   and Christopher J. Schneider. 2013. *Divergence in coloration and 
   the evolution of reproductive isolation in the Anolis marmoratus 
-  species complex.* Molecular Ecology. Accepted.
+  species complex.* Molecular Ecology. 22(10), 2668–2682.
 
 - John E. McCormack, Michael G. Harvey, Brant C. Faircloth, 
   **Nicholas G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2013.
   *A phylogeny of birds based on over 1,500 loci collected by 
-  target enrichment and high-throughput sequencing*. PLoS ONE. 8(1), e54848.
+  target enrichment and high-throughput sequencing*. PLoS ONE. 8(1), 
+  e54848.
 
 - John A. St. John, Edward L. Braun, Sally R. Isberg, Lee G. Miles, 
   Amanda Y. Chong, Jamie Gongora, Pauline Dalzell, Christopher 
@@ -157,7 +158,8 @@ tagline: Nicholas G. Crawford
   Tree Analysis*. Genome Research. 22(4), 746-54.
 
 - **Nicholas G. Crawford**. 2010. *SMOGD: Software for the 
-  Measurement of Genetic Diversity*. Molecular Ecology Resources, 10: 556-557.  
+  Measurement of Genetic Diversity*. Molecular Ecology Resources, 
+  10: 556-557.  
 
 - **Nicholas G. Crawford**, Jaime Zaldvar-Rae, Cris Hagen, Amanda 
   Schable, Erica Bree Rosenblum, Jeff A. Graves, Tod W. Reeder, 
@@ -224,9 +226,12 @@ tagline: Nicholas G. Crawford
 - 1999 - New York, Summer, 1 week, collecting treefrogs
 
 ##### CONFERENCES, MEETINGS, AND TALKS
+- 2013 - Invited Speaker - UMass Lowell.
+    *Presentation Title:* From Archosaurs to Anoles: Genomic Approaches to Studying Reptile Evolution
 
 - 2012 - Union College Seminar Series: Invited Speaker - Union College.  
-    *Presentation Title:* Genomic approaches to understanding reptile evolution.
+    *Presentation Title:* Genomic approaches to understanding 
+    reptile evolution.
 
 - 2012 - World Congress of Herpetology, Vancouver.  
     *Presentation Title:* The Genetics of Colorful Pigmentation in 
