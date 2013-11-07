@@ -13,13 +13,15 @@ tagline: Nicholas G. Crawford
 
 ##### AREAS OF SPECIALIZATION
 
-- Bioinformatics, computational biology, population genomics, 
-  phylogenomics, evolutionary biology, speciation, ultra conserved 
-  elements, and herpetology
+- Bioinformatics, evolutionary biology, computational biology, 
+  population genomics, phylogenomics, speciation, ultra conserved 
+  elements, herpetology and entomology
 
 ##### EDUCATION 
+- **2013, Postdoctoral Fellow, California Academy of Sciences**  
+  *Advisors:* Durrell Kapan and Brian Simison
 
-- **2007 - May 2013, Ph.D. Biology, Boston University**  
+- **2007/13, Ph.D. Biology, Boston University**  
   *Advisor:* Christopher Schneider  
   *Thesis Title:* Anolis Lizard Genomics and Phylogenetics 
 
@@ -101,6 +103,14 @@ tagline: Nicholas G. Crawford
 - 1999 - Booth - Ferris Grant, summer stipend. $1,700.
 
 ##### PUBLICATIONS
+
+- Marcus R. Kronforst, Matthew E. B. Hansen, **Nicholas G. Crawford**, Jason R. Gallant, Rob J. Kulathinal, Durrell D. Kapan, Sean P. 
+  Mullen. 2013. Hybridization reveals the evolving genomic architecture of speciation. Cell Reports, 5, 1–12.
+
+- John E. McCormack, Michael G. Harvey, Brant C. Faircloth, 
+  **Nicholas G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2013.
+  A phylogeny of birds based on over 1,500 loci collected by 
+  target enrichment and high-throughput sequencing. PLoS ONE. 8(1): e54848.
 
 - Martha M. Muñoz, **Nicholas G. Crawford**, Thomas J. McGreevy, 
   Rebecca D. Tarvin, Nicholas J. Messana, Liam J. Revell, Rosanne M. 
@@ -226,7 +236,7 @@ tagline: Nicholas G. Crawford
 - 1999 - New York, Summer, 1 week, collecting treefrogs
 
 ##### CONFERENCES, MEETINGS, AND TALKS
-- 2013 - Invited Speaker - UMass Lowell.
+- 2013 - UMass Lowell Seminar Series: Invited Speaker  
     *Presentation Title:* From Archosaurs to Anoles: Genomic Approaches to Studying Reptile Evolution
 
 - 2012 - Union College Seminar Series: Invited Speaker - Union College.  
@@ -246,7 +256,7 @@ tagline: Nicholas G. Crawford
     combination with cloud computing and species-tree methods help
     resolve deep divergences in reptiles, mammals, and birds 
 
-- 2010 - The Genetics and Evolution of Animal Coloration, Radcliffe Workshop
+- 2010 - The Genetics and Evolution of Animal Coloration, Radcliffe Workshop  
     *Presentation Title:* Identifying coloration genes when you 
      can’t easily do QTL mapping
 
