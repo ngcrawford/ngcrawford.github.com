@@ -17,7 +17,7 @@ tagline: Nicholas G. Crawford
   population genomics, phylogenomics, speciation, ultra conserved 
   elements, herpetology and entomology
 
-##### EDUCATION 
+##### EDUCATION
 
 - **2013, Postdoctoral Fellow, California Academy of Sciences**  
   *Advisors:* Durrell Kapan and Brian Simison
@@ -239,6 +239,7 @@ tagline: Nicholas G. Crawford
 - 1999 - New York, Summer, 1 week, collecting treefrogs
 
 ##### CONFERENCES, MEETINGS, AND TALKS
+
 - 2013 - UMass Lowell Seminar Series: Invited Speaker  
     *Presentation Title:* From Archosaurs to Anoles: Genomic
     Approaches to Studying Reptile Evolution
