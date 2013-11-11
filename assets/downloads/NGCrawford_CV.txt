@@ -1,7 +1,7 @@
 
 NICHOLAS G. CRAWFORD
 
-  Email: ngcrawfo@bu.edu
+  Email: ngcrawford@gmail.com
   Website: ngcrawford.com 
   Twitter: twitter.com/ngcrawford 
   Github: github.com/ngcrawford 
@@ -99,9 +99,9 @@ GRANTS AND SCHOLARSHIPS
 
 PUBLICATIONS
 
-  Marcus R. Kronforst, Matthew E. B. Hansen, Nicholas G. Crawford,
-  Jason R. Gallant, Rob J. Kulathinal, Durrell D. Kapan, Sean P.
-  Mullen. 2013. Hybridization reveals the evolving genomic
+  Marcus R. Kronforst, Matthew E. B. Hansen, Nicholas G. Crawford
+  , Jason R. Gallant, Rob J. Kulathinal, Durrell D. Kapan, Sean P. 
+  Mullen. 2013. Hybridization reveals the evolving genomic 
   architecture of speciation. Cell Reports, 5, 1–12.
 
   John E. McCormack, Michael G. Harvey, Brant C. Faircloth, 
@@ -234,8 +234,7 @@ FIELD EXPERIENCE
 
 CONFERENCES, MEETINGS, AND TALKS
   2013 - UMass Lowell Seminar Series: Invited Speaker  
-     Presentation Title: From Archosaurs to Anoles: Genomic
-     Approaches to Studying Reptile Evolution
+     Presentation Title: From Archosaurs to Anoles: Genomic Approaches to Studying Reptile Evolution
 
   2012 - Union College Seminar Series: Invited Speaker - Union College.  
      Presentation Title: Genomic approaches to understanding 

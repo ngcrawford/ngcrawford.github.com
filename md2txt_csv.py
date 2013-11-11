@@ -7,6 +7,7 @@ import subprocess
 Converts markdown formated CV to plaintext.
 
 $ python md2txt_csv.py index.md > cv.txt
+mv cv.txt assets/downloads/NGCrawford_CV.txt
 
 To make a PDF run:
 
@@ -50,9 +51,4 @@ for count, line in enumerate(fin):
         continue
 
     print line
-
-"""
-
-
-"""
 

@@ -6,7 +6,7 @@ tagline: Nicholas G. Crawford
 
 ##### NICHOLAS G. CRAWFORD
 
-- Email: ngcrawfo@bu.edu
+- Email: ngcrawford@gmail.com
 - Website: [ngcrawford.com] [1]
 - Twitter: [twitter.com/ngcrawford] [2]
 - Github: [github.com/ngcrawford] [3]
@@ -104,8 +104,10 @@ tagline: Nicholas G. Crawford
 
 ##### PUBLICATIONS
 
-- Marcus R. Kronforst, Matthew E. B. Hansen, **Nicholas G. Crawford**, Jason R. Gallant, Rob J. Kulathinal, Durrell D. Kapan, Sean P. 
-  Mullen. 2013. Hybridization reveals the evolving genomic architecture of speciation. Cell Reports, 5, 1–12.
+- Marcus R. Kronforst, Matthew E. B. Hansen, **Nicholas G. Crawford**
+  , Jason R. Gallant, Rob J. Kulathinal, Durrell D. Kapan, Sean P. 
+  Mullen. 2013. Hybridization reveals the evolving genomic 
+  architecture of speciation. Cell Reports, 5, 1–12.
 
 - John E. McCormack, Michael G. Harvey, Brant C. Faircloth, 
   **Nicholas G. Crawford**, Travis C. Glenn, Robb T. Brumfield. 2013.
