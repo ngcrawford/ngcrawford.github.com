@@ -243,7 +243,8 @@ tagline: Nicholas G. Crawford
     *Presentation Title:* From Archosaurs to Anoles: Genomic
     Approaches to Studying Reptile Evolution
 
-- 2012 - Union College Seminar Series: Invited Speaker - Union College.  
+- 2012 - Union College Seminar Series: Invited Speaker - Union
+  College.  
     *Presentation Title:* Genomic approaches to understanding 
     reptile evolution.
 
