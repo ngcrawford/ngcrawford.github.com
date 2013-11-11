@@ -18,6 +18,7 @@ tagline: Nicholas G. Crawford
   elements, herpetology and entomology
 
 ##### EDUCATION 
+
 - **2013, Postdoctoral Fellow, California Academy of Sciences**  
   *Advisors:* Durrell Kapan and Brian Simison
 
@@ -239,7 +240,8 @@ tagline: Nicholas G. Crawford
 
 ##### CONFERENCES, MEETINGS, AND TALKS
 - 2013 - UMass Lowell Seminar Series: Invited Speaker  
-    *Presentation Title:* From Archosaurs to Anoles: Genomic Approaches to Studying Reptile Evolution
+    *Presentation Title:* From Archosaurs to Anoles: Genomic
+    Approaches to Studying Reptile Evolution
 
 - 2012 - Union College Seminar Series: Invited Speaker - Union College.  
     *Presentation Title:* Genomic approaches to understanding 
