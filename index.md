@@ -240,8 +240,10 @@ tagline: Nicholas G. Crawford
 
 ##### CONFERENCES, MEETINGS, AND TALKS
 
-- 2013 Joint annual meeting of the Society for the Study of Evolution and the Society of Systematic Biologists
-   *Presentation Title:* Genomics of local adaptation and colorful pigmentation in Anolis lizards
+- 2013 Joint annual meeting of the Society for the Study of
+  Evolution and the Society of Systematic Biologists
+   *Presentation Title:* Genomics of local adaptation and colorful
+    pigmentation in Anolis lizards
 
 - 2013 - UMass Lowell Seminar Series: Invited Speaker  
     *Presentation Title:* From Archosaurs to Anoles: Genomic
