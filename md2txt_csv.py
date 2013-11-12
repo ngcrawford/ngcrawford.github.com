@@ -4,12 +4,12 @@ import sys
 import subprocess
 
 """
-Converts markdown formated CV to plaintext.
+# Converts markdown formated CV to plaintext.
 
-$ python md2txt_csv.py index.md > cv.txt
+python md2txt_csv.py index.md > cv.txt
 mv cv.txt assets/downloads/NGCrawford_CV.txt
 
-To make a PDF run:
+# To make a PDF run:
 
 gimli -y -f  index.md -o assets/downloads/
 mv assets/downloads/index.pdf assets/downloads/NGCrawford_CV.pdf
